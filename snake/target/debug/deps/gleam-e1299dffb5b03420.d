@@ -1,0 +1,11 @@
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/gleam-e1299dffb5b03420.rmeta: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gl.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gl_fns.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gles_fns.rs /Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gl_and_gles_bindings.rs /Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gl_bindings.rs /Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gles_bindings.rs
+
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/gleam-e1299dffb5b03420.d: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gl.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gl_fns.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gles_fns.rs /Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gl_and_gles_bindings.rs /Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gl_bindings.rs /Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gles_bindings.rs
+
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/lib.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gl.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gl_fns.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.19/src/gles_fns.rs:
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gl_and_gles_bindings.rs:
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gl_bindings.rs:
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/build/gleam-57d2bbd41a4c858b/out/gles_bindings.rs:

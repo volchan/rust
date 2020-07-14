@@ -1,0 +1,1 @@
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/snake: /Users/volchan/code/volchan/udemy/rust/snake/src/draw.rs /Users/volchan/code/volchan/udemy/rust/snake/src/game.rs /Users/volchan/code/volchan/udemy/rust/snake/src/main.rs

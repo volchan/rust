@@ -1,0 +1,13 @@
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/tiff-1bac6908ca52141a.rmeta: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/mod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/ifd.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/stream.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/mod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/colortype.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/writer.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/error.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/tags.rs
+
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/tiff-1bac6908ca52141a.d: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/mod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/ifd.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/stream.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/mod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/colortype.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/writer.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/error.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/tags.rs
+
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/lib.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/mod.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/ifd.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/decoder/stream.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/mod.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/colortype.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/encoder/writer.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/error.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/tiff-0.5.0/src/tags.rs:

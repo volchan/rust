@@ -1,0 +1,12 @@
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/bytemuck-f56845ff7c537cd4.rmeta: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/zeroable.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/pod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/contiguous.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/offset_of.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/transparent.rs
+
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/libbytemuck-f56845ff7c537cd4.rlib: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/zeroable.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/pod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/contiguous.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/offset_of.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/transparent.rs
+
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/bytemuck-f56845ff7c537cd4.d: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/zeroable.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/pod.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/contiguous.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/offset_of.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/transparent.rs
+
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/lib.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/zeroable.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/pod.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/contiguous.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/offset_of.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.2.0/src/transparent.rs:

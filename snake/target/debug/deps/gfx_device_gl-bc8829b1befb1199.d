@@ -1,0 +1,11 @@
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/gfx_device_gl-bc8829b1befb1199.rmeta: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/command.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/factory.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/info.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/shade.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/state.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/volchan/code/volchan/udemy/rust/snake/target/debug/deps/gfx_device_gl-bc8829b1befb1199.d: /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/lib.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/command.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/factory.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/info.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/shade.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/state.rs /Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/lib.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/command.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/factory.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/info.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/shade.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/state.rs:
+/Users/volchan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_device_gl-0.16.2/src/tex.rs:
