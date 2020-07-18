@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 extern crate piston_window;
 extern crate rand;
 
@@ -31,6 +33,8 @@ fn main() {
             game.draw(&c, g);
         });
 
-        event.update(|arg| game.update(arg.dt));
+        event.update(|arg| {
+            game.update(arg.dt);
+        });
     }
 }
